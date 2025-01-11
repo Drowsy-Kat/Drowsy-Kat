@@ -1,4 +1,6 @@
-# Hi there, I'm Drowsy-Kat! 👋
+# Hi there, I'm Khizer Also Known As Drowsy-Kat! 👋
+
+### about me
 
 I'm a freelance broadcaster and a 3rd-year Computer Science student based in the UK.
 
@@ -6,22 +8,27 @@ I'm a freelance broadcaster and a 3rd-year Computer Science student based in the
 
 You can find a list of my skills below:
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,php,laravel,mysql,linux,wordpress)](https://skillicons.dev)
-[![Design Tools](https://skillicons.dev/icons?i=ps,pr)](https://skillicons.dev)
+**Development Tools**\
+![My Skills](https://skills-icons.vercel.app/api/icons?i=python,js,html,css,react,reactnative,expo,php,laravel,mysql,mongo,linux,wordpress,aws,firebase,&perline=5)
 
-## Broadcasting Tools
+**Creative Tools**\
+![Creative Tools](https://skills-icons.vercel.app/api/icons?i=ps,premierepro,xd,figma)
 
-![vMix](https://cdn.brandfetch.io/idJpU7Uj-p/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B)
+**Broadcasting Tools**\
+![vMix](vmix.svg) &nbsp; ![obs](obs.svg)
 
 ## Connect with Me
 
 Let's connect! You can find me on these platforms:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/drowsy-kat)
-[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/drowsy_kat)
+[![LinkedIn](https://skills-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/khizerk/)
+[![Twitter](https://skills-icons.vercel.app/api/icons?i=twitter)](https://twitter.com/drowsy_kat)
+[![BlueSky](https://skills-icons.vercel.app/api/icons?i=bluesky)](https://bsky.app/profile/drowsykat.dev)\
+**Or you can just email me here -> [khizer@drowsykat.dev](mailto:khizer@drowsykat.dev)**
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Drowsy-Kat&layout=compact&theme=radical)
 
-
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Drowsy-Kat.Drowsy-Kat)
 
 <!--
 ## GitHub Stats
