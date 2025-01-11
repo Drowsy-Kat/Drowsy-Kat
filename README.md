@@ -1,4 +1,4 @@
-# Hi there, I'm Khizer Also Known As Drowsy-Kat! 👋
+# Hi there, I'm Khizer Also Known As Drowsy-Kat! 👋 [![kirby](/kirby.png)](https://x.com/emiru4444/status/863974325594009600)
 
 ### about me
 
