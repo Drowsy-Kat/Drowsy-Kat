@@ -28,7 +28,7 @@ Let's connect! You can find me on these platforms:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Drowsy-Kat&layout=compact&theme=radical)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Drowsy-Kat.Drowsy-Kat)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Drowsy-Kat.Drowsy-Kat&left_color=green&right_color=red)
 
 <!--
 ## GitHub Stats
