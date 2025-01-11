@@ -9,13 +9,13 @@ I'm a freelance broadcaster and a 3rd-year Computer Science student based in the
 You can find a list of my skills below:
 
 **Development Tools**\
-![My Skills](https://skills-icons.vercel.app/api/icons?i=python,js,html,css,react,reactnative,expo,php,laravel,mysql,mongo,linux,wordpress,aws,firebase,&perline=5)
+![My Skills](https://skills-icons.vercel.app/api/icons?i=html,css,javascript,react,reactnative,expo,php,laravel,python,mysql,mongodb,linux,aws,firebase,wordpress&perline=5)
 
 **Creative Tools**\
 ![Creative Tools](https://skills-icons.vercel.app/api/icons?i=ps,premierepro,xd,figma)
 
 **Broadcasting Tools**\
-![vMix](vmix.svg) &nbsp; ![obs](obs.svg)
+![Broadcasting Tools](https://skills-icons.vercel.app/api/icons?i=vmix,obs)
 
 ## Connect with Me
 
