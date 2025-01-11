@@ -5,6 +5,7 @@ I'm a freelance broadcaster and a 3rd-year Computer Science student based in the
 ## My Skills
 
 You can find a list of my skills below:
+
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,php,laravel,mysql,linux,wordpress)](https://skillicons.dev)
 [![Design Tools](https://skillicons.dev/icons?i=ps,pr)](https://skillicons.dev)
 
