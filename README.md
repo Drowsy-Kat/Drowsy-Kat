@@ -28,10 +28,10 @@ Let's connect! You can find me on these platforms:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Drowsy-Kat&layout=compact&theme=radical)
 
-
-
 <!--
+stuf that dont work lol
 ## GitHub Stats
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Drowsy-Kat.Drowsy-Kat&left_color=green&right_color=red)
 ![Drowsy-Kat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drowsy-Kat&show_icons=true&theme=radical)
+
 -->
