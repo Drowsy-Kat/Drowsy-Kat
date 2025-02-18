@@ -1,6 +1,6 @@
 # Hi there, I'm Khizer Also Known As Drowsy-Kat! 👋 [![kirby](/kirby.png)](https://x.com/emiru4444/status/863974325594009600)
 
-### about me
+### About Me
 
 I'm a freelance broadcaster and a 3rd-year Computer Science student based in the UK.
 
