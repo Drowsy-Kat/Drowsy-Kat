@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a freelance broadcaster and a 3rd-year Computer Science student based in the UK.
+I'm a freelance broadcaster and computer science grad.
 
 ## My Skills
 
